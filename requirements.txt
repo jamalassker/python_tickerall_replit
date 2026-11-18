@@ -1,0 +1,6 @@
+tickerall
+numpy
+pandas
+onnxruntime
+scikit-learn
+joblib
